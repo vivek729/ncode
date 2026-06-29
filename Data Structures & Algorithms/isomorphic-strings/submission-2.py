@@ -1,3 +1,4 @@
+# Wrong solution, ignore
 class Solution:
     def get_contf(self, s):
         last_char = s[0]
